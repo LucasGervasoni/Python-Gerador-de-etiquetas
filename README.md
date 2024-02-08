@@ -8,11 +8,11 @@ Nesse projeto tive a experiência de como organizar e estruturar um projeto para
 
 Foram utilizados as seguintes skills:
 
--Virtualenv -> para criação de um ambiente virtual
--Pylint -> para padronização do projeto
--Pre-commit -> biblioteca que se conecta ao git para identificar erros antes do envio do código
--Flask -> biblioteca python para web
--Barcode -> biblioteca python para a criação das tags dos códigos de barras
--Pillow -> biblioteca python para a criação de imagens, trabalha em conjunto com o barcode
--Cerberus -> biblioteca python usada para a validação de dados
--Pytest -> biblioteca python usada para testes unitários
+-Virtualenv -> para criação de um ambiente virtual</br>
+-Pylint -> para padronização do projeto</br>
+-Pre-commit -> biblioteca que se conecta ao git para identificar erros antes do envio do código</br>
+-Flask -> biblioteca python para web</br>
+-Barcode -> biblioteca python para a criação das tags dos códigos de barras</br>
+-Pillow -> biblioteca python para a criação de imagens, trabalha em conjunto com o barcode</br>
+-Cerberus -> biblioteca python usada para a validação de dados</br>
+-Pytest -> biblioteca python usada para testes unitários</br>
